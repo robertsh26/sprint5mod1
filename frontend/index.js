@@ -1,4 +1,4 @@
-const { people } = require("./data");
+
 
 function moduleProject1() {
   const footer = document.querySelector('footer')
